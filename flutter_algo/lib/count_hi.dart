@@ -1,5 +1,5 @@
 void main() {
-  var count=countHi("chicccchi","h");
+  var count=countHi("chicccchi","hi");
   print("repeating $count");
 
 }
